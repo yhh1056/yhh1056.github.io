@@ -54,6 +54,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+             <ul>
+                    {% for category in site.categories %}
+                        {% if category[0] == "book" %}
+                            <li><a href="/categories/book" class="">독서 ({{category[1].size}})</a></li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
 
       </li>
   </ul>
