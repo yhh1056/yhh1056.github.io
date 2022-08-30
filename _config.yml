@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "성공보단 성장을."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Tigger"
+name                     : "호호"
 description              : "성공보단 성장을."
 url                      : "https://yhh1056.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tigger"
+  name             : "호호"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "백엔드 개발자"
   location         : "Seoul"
