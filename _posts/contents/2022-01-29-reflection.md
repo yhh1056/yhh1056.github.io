@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 categories:
-  - content
+  - contents
 last_modified_at: 2022-01-29TO00:40:00+09:00
 ---
 
