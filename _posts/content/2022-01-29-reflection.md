@@ -241,30 +241,3 @@ try {
 &#160;
 &#160;
 &#160;
-
-참고 : [https://www.oracle.com/technical-resources/articles/java/javareflection.html](https://www.oracle.com/technical-resources/articles/java/javareflection.html)  
-참고 : [https://www.baeldung.com/java-reflection](https://www.baeldung.com/java-reflection)
-
-<!-- 다라쓰 설치 코드 -->
-<div id="darass" 
-    data-project-key="CqpU2S8YaJ8DlOp565" 
-    data-dark-mode="false"
-    data-primary-color="#a7915e"
-    data-show-sort-option="true"
-    data-allow-social-login="true"
-    data-show-logo="true"
-    >
-    <script type="text/javascript" defer>
-        (function () {
-        var $document = document;
-
-        var $script = $document.createElement("script");
-        $script.src = "https://deploy-script.darass.co.kr/embed.js";
-        $script.defer = true;
-
-        $document.head.appendChild($script);
-        })();
-    </script>
-    <noscript>다라쓰 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
-</div>
-<!-- 다라쓰 설치 코드 끝 -->
