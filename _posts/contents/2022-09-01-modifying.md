@@ -6,7 +6,7 @@ toc_sticky: true
 
 categories:
   - contents
-last_modified_at: 2022-08-31TO00:40:00+09:00
+last_modified_at: 2022-09-01TO00:40:00+09:00
 ---
 
 ### 미팅 완료 버튼을 누르지 않은 사용자들을 위한 스케줄링
