@@ -33,7 +33,7 @@
         <span class="nav__sub-title">TIL</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "TIL" %}
+                    {% if category[0] == "til" %}
                         <li><a href="/categories/til" class=""> TIL ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
